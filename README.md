@@ -68,3 +68,4 @@ These texts have been used in published research to:
 - Examine the relationship between communication clarity and market reactions
 
 By making these texts available to the research community, we aim to facilitate further advances in understanding central bank communication and its economic effects.
+Thank you in advance for citing our publications.
