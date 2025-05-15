@@ -35,7 +35,7 @@ Benchimol, Jonathan, Caspi, Itamar, & Kazinnik, Sophia. (2023). Measuring commun
 Benchimol, Jonathan, Kazinnik, Sophia, & Saadon, Yossi. (2022). Text mining methodologies with R: an application to central bank texts. Machine Learning with Applications, Elsevier, 8, 100286.
 [10.1016/j.mlwa.2022.100286](https://doi.org/10.1016/j.mlwa.2022.100286)
 
-**Note on multiple central bank sources:** If your research utilizes texts from two or more central banks, you are required to cite all corresponding papers. For example, research comparing Federal Reserve and ECB communications would necessitate citing both the Benchimol et al. (2023,2025) papers.
+**Note on multiple central bank sources:** If your research utilizes texts from two or more central banks, please cite all corresponding papers. For example, research comparing Federal Reserve and ECB communications would necessitate citing both the Benchimol et al. (2023,2025) papers.
 
 ## File Organization
 
