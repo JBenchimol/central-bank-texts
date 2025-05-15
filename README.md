@@ -21,20 +21,20 @@ If you use these texts in your research, please cite the corresponding paper:
 **For Federal Reserve texts:**
 
 Benchimol, Jonathan, Kazinnik, Sophia, & Saadon, Yossi. (2025). Federal Reserve communication and the COVID-19 pandemic. Manchester School, forthcoming.
-[https://doi.org/10.1111/manc.12520](10.1111/manc.12520)
+[10.1111/manc.12520](https://doi.org/10.1111/manc.12520)
 
 
 **For European Central Bank texts:**
 
 Benchimol, Jonathan, Caspi, Itamar, & Kazinnik, Sophia. (2023). Measuring communication quality of interest rate announcements. The Economists' Voice, De Gruyter, 20(1), 43-53.
-[https://doi.org/10.1515/ev-2022-0023](10.1515/ev-2022-0023)
+[10.1515/ev-2022-0023](https://doi.org/10.1515/ev-2022-0023)
 
 
 **For Bank of Israel texts:**
-```
+
 Benchimol, Jonathan, Kazinnik, Sophia, & Saadon, Yossi. (2022). Text mining methodologies with R: an application to central bank texts. Machine Learning with Applications, Elsevier, 8, 100286.
-[https://doi.org/10.1016/j.mlwa.2022.100286](https://doi.org/10.1016/j.mlwa.2022.100286)
-```
+[10.1016/j.mlwa.2022.100286](https://doi.org/10.1016/j.mlwa.2022.100286)
+
 
 ## File Organization
 
@@ -55,7 +55,7 @@ Each text file contains:
 
 ## Data Processing Resources
 
-For detailed information on the methodologies used to process and analyze these texts, please refer to the Code Ocean replication files available at: [https://doi.org/10.24433/CO.1132001.v1](https://doi.org/10.24433/CO.1132001.v1)
+For detailed information on the methodologies used to process and analyze these texts, please refer to the **Code Ocean** replication files available at: [10.24433/CO.1132001.v1](https://doi.org/10.24433/CO.1132001.v1)
 
 When using these processing methodologies in your research, please cite the Code Ocean repository in addition to the appropriate paper listed above.
 
@@ -63,7 +63,7 @@ When using these processing methodologies in your research, please cite the Code
 
 These texts have been used in published research to:
 - Analyze shifts in central bank communication during the COVID-19 pandemic
-- Measure and evaluate communication quality of interest rate announcements
+- Measure and evaluate the communication quality of interest rate announcements
 - Develop and test text mining methodologies for economic policy analysis
 - Examine the relationship between communication clarity and market reactions
 
