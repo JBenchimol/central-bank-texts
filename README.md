@@ -19,16 +19,16 @@ These documents provide critical insights for research in monetary economics, fi
 If you use these texts in your research, please cite the corresponding paper:
 
 **For Federal Reserve texts:**
-```
+
 Benchimol, Jonathan, Kazinnik, Sophia, & Saadon, Yossi. (2025). Federal Reserve communication and the COVID-19 pandemic. Manchester School, forthcoming.
-[https://doi.org/10.1111/manc.12520](https://doi.org/10.1111/manc.12520)
-```
+[https://doi.org/10.1111/manc.12520](10.1111/manc.12520)
+
 
 **For European Central Bank texts:**
-```
+
 Benchimol, Jonathan, Caspi, Itamar, & Kazinnik, Sophia. (2023). Measuring communication quality of interest rate announcements. The Economists' Voice, De Gruyter, 20(1), 43-53.
 [https://doi.org/10.1515/ev-2022-0023](10.1515/ev-2022-0023)
-```
+
 
 **For Bank of Israel texts:**
 ```
