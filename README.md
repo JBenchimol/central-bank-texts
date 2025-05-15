@@ -16,7 +16,7 @@ These documents provide critical insights for research in monetary economics, fi
 
 ## Citation Requirements
 
-If you use these texts in your research, please cite the corresponding paper:
+**Important licensing information:** This database is distributed under a Creative Commons Attribution (CC-BY) license, which requires appropriate attribution when using these materials. If you use these texts in your research, you must cite the corresponding publication as detailed below.
 
 **For Federal Reserve texts:**
 
@@ -35,6 +35,7 @@ Benchimol, Jonathan, Caspi, Itamar, & Kazinnik, Sophia. (2023). Measuring commun
 Benchimol, Jonathan, Kazinnik, Sophia, & Saadon, Yossi. (2022). Text mining methodologies with R: an application to central bank texts. Machine Learning with Applications, Elsevier, 8, 100286.
 [10.1016/j.mlwa.2022.100286](https://doi.org/10.1016/j.mlwa.2022.100286)
 
+**Note on multiple central bank sources:** If your research utilizes texts from two or more central banks, you are required to cite all corresponding papers. For example, research comparing Federal Reserve and ECB communications would necessitate citing both the Benchimol et al. (2023,2025) papers.
 
 ## File Organization
 
@@ -68,4 +69,4 @@ These texts have been used in published research to:
 - Examine the relationship between communication clarity and market reactions
 
 By making these texts available to the research community, we aim to facilitate further advances in understanding central bank communication and its economic effects.
-Thank you in advance for citing our publications.
+Thank you in advance for using our research for your research.
