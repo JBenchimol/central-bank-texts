@@ -1,10 +1,10 @@
 # Central Bank Texts Database
 
-This repository contains a comprehensive collection of official communications from three major central banks: the Federal Reserve (US), European Central Bank (EU), and Bank of Israel (BoI). The database includes interest rate announcements, meeting minutes, and speeches spanning from 1998 to 2018/2020, providing researchers with valuable primary sources for analyzing central bank communication strategies, monetary policy decisions, and their economic impacts.
+This repository contains a collection of official communications from three major central banks: the Federal Reserve (US), European Central Bank (EU), and Bank of Israel (BoI). The database includes interest rate announcements, meeting minutes, and speeches spanning from 1998 to 2018/2020, providing researchers with valuable sources for analyzing central bank communication.
 
 ## Database Value
 
-The texts in this collection offer researchers unprecedented access to:
+The texts in this collection offer researchers access to:
 
 - Complete transcripts of monetary policy deliberations
 - Official interest rate announcements and accompanying statements
@@ -16,7 +16,7 @@ These documents provide critical insights for research in monetary economics, fi
 
 ## Citation Requirements
 
-**Important licensing information:** This database is distributed under a Creative Commons Attribution (CC-BY) license, which requires appropriate attribution when using these materials. If you use these texts in your research, you must cite the corresponding publication as detailed below.
+**Important information:** This database is distributed under the Creative Commons Attribution CC-BY license, which requires appropriate attribution when using these materials. If you use these texts in your research, you have to cite the corresponding publication as detailed below.
 
 **For Federal Reserve texts:**
 
@@ -58,7 +58,7 @@ Each text file contains:
 
 For detailed information on the methodologies used to process and analyze these texts, please refer to the **Code Ocean** replication files available at: [10.24433/CO.1132001.v1](https://doi.org/10.24433/CO.1132001.v1)
 
-When using these processing methodologies in your research, please cite the Code Ocean repository in addition to the appropriate paper listed above.
+When using these processing methodologies in your research, please cite the Code Ocean repository and the appropriate paper listed above.
 
 ## Sample Applications
 
